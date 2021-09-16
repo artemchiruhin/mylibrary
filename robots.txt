@@ -1,0 +1,4 @@
+﻿User-agent: *
+Disallow: *&
+Allow: 404.php
+Disallow: www.mylibrary.ru

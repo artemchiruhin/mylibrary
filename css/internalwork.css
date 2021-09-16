@@ -1,0 +1,28 @@
+.internalwork >.container h2{
+    color: #336699;
+    margin: 50px 0;
+    font-size: 32px;
+}
+.item{
+    margin-bottom: 50px;
+}
+.item img{
+    float: left;
+    margin: 0 30px 30px 0;
+}
+.item:nth-child(even) img{
+    float: right;
+    margin: 0 0 30px 30px;
+}
+.item h3{
+    margin-bottom: 20px;
+    color: #336699;
+    font-size: 24px;
+}
+.item p{
+    text-align: justify;
+    line-height: 1.5em;
+}
+a{
+    color: #000;
+}
